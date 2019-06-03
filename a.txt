@@ -3,3 +3,5 @@ sdfhi hello
 one more line
 
 After cloning editing
+
+add from demo3
